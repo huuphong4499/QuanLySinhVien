@@ -1,0 +1,6 @@
+{
+  "Server": "localhost",
+  "Database": "QLSinhVien",
+  "IntegratedSecurity": true,
+  "TrustServerCertificate": true
+}
